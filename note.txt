@@ -1,0 +1,6 @@
+Set up prisma
+- npm install prisma --save-dev
+- npm prisma init
+- buat schema, lalu migrate: npm prisma migrate dev
+- beri nama migration nya
+- install prisma client: npm install @prisma/client
